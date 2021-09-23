@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khoa D. Vo, aka "Levi"
 - 👀 I’m interested in Computer Vision, Blockchain, and Flutter
-- 🌱 I’m currently learning OpenCV
+- 🌱 I’m currently researching Deep Learning
 - 💞️ I’m looking to collaborate on interested projects
 - 📫 You can reach me via khoa.hyper@gmail.com
 
